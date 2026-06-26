@@ -1,6 +1,6 @@
-package dojo_dev_aula_introducao;
+package com.SauloSilvaaa.maratonajava.Introducao.Aula05;
 
-public class Aula05EstruturaCondicionais {
+public class Aula05EstruturaCondicionais01 {
     public static void main(String[] args) {
         int idade = 15;
         boolean isAutorizadoComprarBebida = idade >= 18;
